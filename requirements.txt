@@ -1,0 +1,9 @@
+PyNaCl
+aiohttp
+emoji
+grapheme
+orjson
+pytz
+requests
+typing_extensions
+yarl

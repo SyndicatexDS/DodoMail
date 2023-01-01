@@ -1,0 +1,92 @@
+{
+   "1000140288347607061": {
+      "Name": "THIS IS A TEST TICKET",
+      "Description": "FRPBBWPBFWPBFPWFBWPIYFBWPEIUBFWPYBFWRYBPWYFBWFWPNWYFEWFEWPFEWUFVEWFEWFEYFVPEWFPEWFPYFVPYFE",
+      "ButtonLabel": "\ud83d\udc8c",
+      "MSG": 1030894093808717864
+   },
+   "1032747714867372102": {
+      "Name": "REQUEST STARTER PACK",
+      "Description": "Hey there, new to the server and needing your starter kit?!  Choose from an \ud83d\udc26Argentavis or \ud83e\udd89Snow owl , please state your choice in your ticket.  We have an optional 14 day white flag, please let us know in your ticket if you would like this or not.",
+      "ButtonLabel": "\ud83c\udf81 Request Starter",
+      "MSG": 1032752261803286558
+   },
+   "1035545646146535504": {
+      "Name": "TEST",
+      "Description": "{\"id\":\"embed_292\",\"type\":\"rich\",\"rawTitle\":\"REQUEST STARTER KIT\",\"rawDescription\":\"**Hey there, new to the server and in need of a starter kit?!**  Choose from an \ud83d\udc26Argentavis or \ud83e\udd89Snow owl , please state your choice in your ticket. We have an optional 14 day white flag, please let us know in your ticket if you would like this or not. Please open a request and an admin will be with you when they can, please be patient during this time. ```Please monitor your ticket for responses from the admin team, if we receive no response from yourself after 24 hours the ticket will be close and you will need to open a new one.``` **Many thanks \ud83d\ude0a** The Admin Team\",\"footer\":{\"text\":\"Dodo Mail | \u00a9\ufe0f 2022 | www.thelandofark.com\",\"iconURL\":\"https://i.imgur.com/hODYmHU.png\",\"iconProxyURL\":\"https://images-ext-1.discordapp.net/external/pAEcpGz5h9N_x2h1YOozh_Lvlq5w0VRbUr_cUXj6Wy4/https/i.imgur.com/hODYmHU.png\"},\"color\":\"hsla(121, calc(var(--saturation-factor, 1) * 24.9%), 41.8%, 1)\",\"thumbnail\":{\"url\":\"https://i.imgur.com/ZovNveV.png\",\"proxyURL\":\"https://images-ext-1.discordapp.net/external/XcG0yHhw-w_xmsouu-68vaYUQ4nSqu3e1lqARoxo1LQ/https/i.imgur.com/ZovNveV.png\",\"width\":268,\"height\":331},\"fields\":[]}",
+      "ButtonLabel": "\ud83d\udc8c  Request Starter",
+      "MSG": 1035557376520110120
+   },
+   "1056553579864915968": {
+      "Name": "Dodo Mail",
+      "Description": "Hi there <@&1056406883147206736>! If you need help from one of our <@&1056549287921729576> then please press the button below to open a ticket. ```Abuse of the ticket system will result in you getting blacklisted or banned.```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1057409599755538504
+   },
+   "1057679801470681098": {
+      "Name": "REQUEST STARTER PACK",
+      "Description": "Hi there <@&1057668387502817362> ! If you want to request a starter pack please press the button below and one of our <@&950181901707141211> will be with you as soon as they can. ```Abuse of the ticket system will result in you getting blacklisted.```",
+      "ButtonLabel": "\ud83c\udf81  Request Starter Pack",
+      "MSG": 1057682311384141937
+   },
+   "1057681800379519088": {
+      "Name": "GENERAL SUPPORT",
+      "Description": "Hi there <@&1057668387502817362>! If you need help from one of our <@&950181901707141211> then please press the button below to open a ticket. One of our admins will be with you as soon as they can. ```Abuse of the ticket system will result in you getting blacklisted.```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1057682723533246554
+   },
+   "1058220609596837978": {
+      "Name": "General Support Ticket",
+      "Description": "This is a test ticket",
+      "ButtonLabel": "\ud83d\udc8c  Open Test Ticket",
+      "MSG": 1058222067402674246
+   },
+   "1058821802354286693": {
+      "Name": "GENERAL SUPPORT",
+      "Description": "Hi there <@&1016810640695898132> If you need support general support please press the button below to open a ticket. Make sure to provide our <@&1016810623172087949> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets. ```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058825282468970496
+   },
+   "1058822172711329842": {
+      "Name": "BUSH BERRY SHOP SUPPORT",
+      "Description": "Hi there <@&1016810640695898132> If you need support general support please press the button below to open a ticket. Make sure to provide our <@&1016810623172087949> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets. ```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058825683427667988
+   },
+   "1058822234707341342": {
+      "Name": "MESHED STRUCTURE SUPPORT",
+      "Description": "Hi there <@&1016810640695898132> If you need support general support please press the button below to open a ticket. Make sure to provide our <@&1016810623172087949> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets. ```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058825985325273169
+   },
+   "1058822333357375579": {
+      "Name": "DONATION SUPPORT",
+      "Description": "Hi there <@&1016810640695898132> If you need support general support please press the button below to open a ticket. Make sure to provide our <@&1016810623172087949> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets. ```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058826726806921337
+   },
+   "1058822388717985872": {
+      "Name": "PARTNER/SPONSOR REQUESTS",
+      "Description": "Hi there <@&1016810640695898132> If you need support please press the button below to open a ticket. Make sure to provide our <@&1016810623172087949> team with your Discord Server Name, Discord Invite Link, Amount of Discord members you have and your PSN name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets.```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058837898427912272
+   },
+   "1058865264218886175": {
+      "Name": "General Support",
+      "Description": "Hi there @Survivor If you need support general support please press the button below to open a ticket. Make sure to provide our <@&857375629929873429> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets.```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058879387015073914
+   },
+   "1058865354882957392": {
+      "Name": "Bush Berry Support",
+      "Description": "Hi there @Survivor If you need support please press the button below to open a ticket. Make sure to provide our <@&857375629929873429> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets.```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058874049717096489
+   },
+   "1058865587696185414": {
+      "Name": "Report Meshed Structures",
+      "Description": "Hi there @Survivor If you need support please press the button below to open a ticket. Make sure to provide our <@&857375629929873429> with your Your In game character name, PSN name, Specimen Implant ID, Map name this ticket is in reference to and your tribe name. ```Tickets opened without the proper information provided will be deleted, as will un-responsive tickets.```",
+      "ButtonLabel": "\ud83d\udc8c  Create Ticket",
+      "MSG": 1058874513841987644
+   }
+}
